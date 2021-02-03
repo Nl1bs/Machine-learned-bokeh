@@ -3,4 +3,4 @@ High quality depth of field effects are often hard to run in realtime, usually h
 
 This project uses machine learning to seperate circle bokeh shape into two spatial passes, and with miner mods (removing the symmetry loss and replacing the shape code) any 2d filter can be approximated with fewer samples!
 
-Also, here's [a shadertoy demo using a seperated circle generated with this code](https://www.shadertoy.com/view/3tGcWt)
+Also, here's [a shadertoy demo](https://www.shadertoy.com/view/3tGcWt)
